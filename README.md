@@ -1,0 +1,1 @@
+Creating a sample report in PoerBI desktop which includes total number of sales by each category and product name and country wise number of categories are sold and total number of sales are visualised globally.
